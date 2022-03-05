@@ -1,6 +1,6 @@
-# Food_Catagory_Web
-This is mainly one of my work to find attractions using nodeJS and React.
-how to run
+# Food_Catagory_Web</br>
+This is mainly one of my work to find attractions using nodeJS and React.</br>
+**How to run**</br>
   1. Go to json-server folder
   2. Use the **npm install** command to install what I use in the node module.
   3. Run the **npm start** command.
