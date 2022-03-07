@@ -1,4 +1,4 @@
-# Food_Catagory_Web</br>
+# Tourist_attraction_Web</br>
 This is mainly one of my work to find attractions using nodeJS and React.</br>
 **How to run**</br>
   1. Go to json-server folder
